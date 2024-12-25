@@ -1,5 +1,5 @@
 <?php
 
-echo exec('ls');
+echo exec('ls /var/www/html/');
 
 ?>
