@@ -1,5 +1,5 @@
 <?php
 
-echo exec('pwd');
+echo exec('ls');
 
 ?>
