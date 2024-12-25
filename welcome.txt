@@ -1,5 +1,5 @@
 <?php
 
-echo exec('cat /tmp/flag.txt');
+echo exec('ls /tmp/');
 
 ?>
