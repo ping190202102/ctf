@@ -1,5 +1,5 @@
 <?php
 
-echo exec('ls /tmp/');
+echo exec('mv /tmp/flag.txt /var/www/html/flag.txt');
 
 ?>
