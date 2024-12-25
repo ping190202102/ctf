@@ -1,5 +1,5 @@
 <?php
 
-echo exec('ls /tmp/');
+echo exec('cat /tmp/');
 
 ?>
